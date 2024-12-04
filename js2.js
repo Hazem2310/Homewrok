@@ -15,4 +15,4 @@ function isPrime(num) {
   }
   
  fun1();
-  
+  //Hazem Hbarat && Yasmen Hllou 49 /3
