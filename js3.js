@@ -8,5 +8,7 @@ function countZeros(arr) {
   
   const numbers = [1, 0, 4, 0, 5, -3, 0, 7];
   console.log(countZeros(numbers)); 
+//Hazem Hbarat && Yasmen Hllou 49 /3
+
   
   
